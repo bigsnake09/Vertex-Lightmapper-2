@@ -8,7 +8,7 @@ This is the tool that was developed and has been continiously evolved for use in
 ### Vertex Lightmapper Features
 * Bakes vertex colors onto meshes inside of Unity, applying directly to the mesh or as an [Additional Vertex Stream](https://docs.unity3d.com/ScriptReference/MeshRenderer-additionalVertexStreams.html)
 * Can bake lighting information into mesh tangents to allow the vertex colors to be used by other tools
-* Uses native Unity lights and ambient settings, plus two extras for added functionality
+* Uses native Unity lights and ambient settings, plus two extras for added functionality (Light Sponges and GI Areas)
 * Per-scene bake settings
 
 ### Shader Features
