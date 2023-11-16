@@ -14,3 +14,9 @@ This is the tool that was developed and has been continiously evolved for use in
 ### Shader Features
 * Two uber shaders with support for a large variety of vertex lit setups and effects, including retro effects.
 * A tri-planar mapped terrain shader with RGBA texture blending (reads lighting information from mesh tangents).
+
+# Examples
+Check out the `City Day`, `City Night` and `Terrain` scenes for some examples!
+
+# How to Use
+[Check the Wiki page](https://github.com/bigsnake09/Vertex-Lightmapper-2/wiki)
