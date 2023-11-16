@@ -19,4 +19,6 @@ This is the tool that was developed and has been continiously evolved for use in
 Check out the `City Day`, `City Night` and `Terrain` scenes for some examples!
 
 # How to Use
+Note: Turn off MSAA if you're planning to use the included shaders!
+
 [Check the Wiki page](https://github.com/bigsnake09/Vertex-Lightmapper-2/wiki)
