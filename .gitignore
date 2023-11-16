@@ -1,0 +1,13 @@
+*.csproj
+*.DotSettings
+*.sln
+.idea/
+Library/
+ProjectSettings/
+Packages/
+obj/
+Logs/
+External Assets/
+Temp/
+UserSettings/
+*.tmprj
