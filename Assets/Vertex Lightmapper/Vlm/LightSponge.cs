@@ -1,6 +1,8 @@
 ﻿using System.Reflection;
+#if UNITY_EDITOR
 using UnityEditor;
 using UnityEditor.IMGUI.Controls;
+#endif
 using UnityEngine;
 
 namespace Vlm
